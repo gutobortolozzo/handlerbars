@@ -1,0 +1,15 @@
+{
+  "name": "handlerbars-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guto Bortolozzo <gutobortolozzo@gmail.com> (https://github.com/gutobortolozzo/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "handlebars": "^4.0.5"
+  }
+}
